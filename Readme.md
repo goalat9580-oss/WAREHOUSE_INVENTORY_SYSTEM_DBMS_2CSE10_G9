@@ -142,6 +142,7 @@ The diagram visually demonstrates entities, attributes, relationships, and cardi
 ---
 
 # 📄 ER Diagram
+https://github.com/goalat9580-oss/WAREHOUSE_INVENTORY_SYSTEM_DBMS_2CSE10_G9/blob/main/WAREHOUSE.drawio.png
 
 
 
